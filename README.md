@@ -1,3 +1,5 @@
+> **Archived.** Continuation of [cordova-plugin-googlemaps](https://github.com/mapsplugin/cordova-plugin-googlemaps), whose last upstream release was 2.7.1 (April 2023). I published it on npm as [`cordova-plugin-googlemaps-latest`](https://www.npmjs.com/package/cordova-plugin-googlemaps-latest) in 2024 to keep a client's Android/iOS app working: Google Play Services updated to 18.0.0, fixes in the Android and iOS map and marker code, and npm packaging. No longer maintained. Original work by its authors, Apache-2.0.
+
 # Cordova GoogleMaps plugin for Android, iOS and Browser v2.7.1
 
 | Download | Build test (multiple_maps branch)|
